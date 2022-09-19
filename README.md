@@ -2,7 +2,7 @@
 
 ## init library
 vue create oneandzip_bo
-npm i vuetify
+npm add vuetify > Choose a preset: Vuetify 2 - Vue CLI (recommended)
 npm i sass sass-loader -D
 npm i axios@0.27.2
 npm i @vue/composition-api
